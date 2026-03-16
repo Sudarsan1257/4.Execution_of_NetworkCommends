@@ -66,7 +66,7 @@ def traceroute_simulation(host):
 traceroute_simulation('google.com')
 ```
 ## Output
-
-
+![First Output](Screenshot%202026-03-16%20105433.png)
+![Second Output](Screenshot%202026-03-16%20105857.png)
 ## Result
 Thus Execution of Network commands Performed 
